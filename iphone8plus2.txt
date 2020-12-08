@@ -1,0 +1,12 @@
+Apple iPhone 8Plus 64GB
+Brand: Apple
+Model: iphone 8Plus
+OS: ios 11	
+Color: Jet Black
+Price: Rs. 127,999
+
+Brand: Apple
+Model: iphone 8Plus
+OS: ios 11	
+Color: Rose Gold
+Price: Rs. 127,999

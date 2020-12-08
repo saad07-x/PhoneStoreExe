@@ -1,0 +1,12 @@
+Apple iPhone 7 64GB
+Brand: Apple
+Model: iphone 7
+OS: ios 10	
+Color: Jet Black
+Price: Rs. 73,999
+
+Brand: Apple
+Model: iphone 7
+OS: ios 10	
+Color: Rose Gold
+Price: Rs. 73,999

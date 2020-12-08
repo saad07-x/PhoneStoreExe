@@ -1,0 +1,12 @@
+Huawei Y9 128 GB
+Brand: Huawei
+Model: Y9
+OS: Harmony OS
+Color: Black
+Price: 95,000
+
+Brand: Huawei
+Model: Y9
+OS: Harmony OS
+Color: Gold
+Price: 95,000

@@ -1,0 +1,12 @@
+Samsung Galaxy S7 64GB
+Brand: Samsung
+Model: Samsung Galaxy S8
+OS: Android V7.0
+Color: Prism Black
+Price: Rs. 50,000
+
+Brand: Samsung
+Model: Samsung Galaxy S7
+OS: Android V7.0
+Color: Prism White
+Price: Rs. 50,000

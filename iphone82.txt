@@ -1,0 +1,12 @@
+Apple iPhone 8 64GB
+Brand: Apple
+Model: iphone 8
+OS: ios 11	
+Color: Space Gray
+Price: Rs. 94,999
+
+Brand: Apple
+Model: iphone 8
+OS: ios 11	
+Color: Gold
+Price: Rs. 94,999

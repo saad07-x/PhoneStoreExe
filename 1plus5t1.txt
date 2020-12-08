@@ -1,0 +1,14 @@
+One Plus 5t 32 gb
+
+Brand: One Plus
+Model: 5t
+OS: Oxygen OS
+color: Black
+Price: 65,000
+
+
+Brand: One Plus
+Model: 5t
+OS: Oxygen OS
+color: Gold
+Price: 65,000

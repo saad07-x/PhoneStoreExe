@@ -1,0 +1,14 @@
+One Plus 3t 64 gb
+
+Brand: One Plus
+Model: 3t
+OS: Oxygen OS
+color: Black
+Price: 91,000
+
+
+Brand: One Plus
+Model: 3t
+OS: Oxygen OS
+color: Gold
+Price: 91,000

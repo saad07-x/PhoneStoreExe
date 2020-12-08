@@ -1,0 +1,13 @@
+Samsung Galaxy Note 7 64GB
+Brand: Samsung
+Model: Samsung Galaxy Note 7
+OS: Android V6.1
+Color: Aura Black
+Price: Rs. 45,000
+
+Brand: Samsung
+Model: Samsung Galaxy Note 7
+OS: Android V6.1
+Color: Aura White
+Price: Rs. 45,000
+

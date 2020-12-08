@@ -1,0 +1,14 @@
+Oppo F11 128 gb
+
+Brand: Oppo
+Model: F11
+OS: Color OS
+color: Black
+Price: 65,000
+
+
+Brand: Oppo	
+Model: F11
+OS: Color OS
+Color: Gold
+Price: 65,000

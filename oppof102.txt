@@ -1,0 +1,14 @@
+Oppo F10 64 gb
+
+Brand: Oppo
+Model: F10
+OS: Color OS
+color: Black
+Price: 85,000
+
+
+Brand: Oppo	
+Model: F10
+OS: Color OS
+Color: Gold
+Price: 85,000

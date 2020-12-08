@@ -1,0 +1,12 @@
+Samsung Galaxy S6 32GB
+Brand: Samsung
+Model: Samsung Galaxy S6
+OS: Android V5.0
+Color: Prism Black
+Price: Rs. 35,000
+
+Brand: Samsung
+Model: Samsung Galaxy S6
+OS: Android V5.0
+Color: Prism White
+Price: Rs. 35,000

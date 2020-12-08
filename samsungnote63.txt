@@ -1,0 +1,12 @@
+Samsung Galaxy Note 6 128GB
+Brand: Samsung
+Model: Samsung Galaxy Note 6
+OS: Android V6.0
+Color: Aura Black
+Price: Rs. 40,000
+
+Brand: Samsung
+Model: Samsung Galaxy Note 6
+OS: Android V6.0
+Color: Aura White
+Price: Rs. 40,000

@@ -1,0 +1,12 @@
+Apple iPhone 8Plus 32GB
+Brand: Apple
+Model: iphone 8Plus
+OS: ios 11	
+Color: Jet Black
+Price: Rs. 107,999
+
+Brand: Apple
+Model: iphone 8Plus
+OS: ios 11	
+Color: Rose Gold
+Price: Rs. 107,999

@@ -1,0 +1,12 @@
+Samsung Galaxy S6 128GB
+Brand: Samsung
+Model: Samsung Galaxy S6
+OS: Android V5.0
+Color: Prism Black
+Price: Rs. 40,000
+
+Brand: Samsung
+Model: Samsung Galaxy S6
+OS: Android V5.0
+Color: Prism White
+Price: Rs. 40,000

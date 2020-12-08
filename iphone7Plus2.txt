@@ -1,0 +1,12 @@
+Apple iPhone 7 Plus 64GB
+Brand: Apple
+Model: iphone 7 Plus
+OS: ios 10	
+Color: Jet Black
+Price: Rs. 100,899
+
+Brand: Apple
+Model: iphone 7 Plus
+OS: ios 10	
+Color: Rose Gold
+Price: Rs. 100,899

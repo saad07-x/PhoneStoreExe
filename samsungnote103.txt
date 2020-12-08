@@ -1,0 +1,12 @@
+Samsung Galaxy Note 10 128GB
+Brand: Samsung
+Model: Samsung Galaxy Note 10
+OS: Android 9.0	
+Color: Aura Black
+Price: Rs. 195,999
+
+Brand: Samsung
+Model: Samsung Galaxy Note 10
+OS: Android 9.0	
+Color: Aura White
+Price: Rs. 195,999

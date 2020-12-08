@@ -1,0 +1,14 @@
+One Plus 4t 64 gb
+
+Brand: One Plus
+Model: 4t
+OS: Oxygen OS
+color: Black
+Price: 65,000
+
+
+Brand: One Plus
+Model: 4t
+OS: Oxygen OS
+color: Gold
+Price: 65,000

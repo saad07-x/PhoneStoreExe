@@ -1,0 +1,12 @@
+IPHONE XS 32 GB
+Brand: Apple
+Model: iphone XS
+OS: ios 12	
+Color: Space Gray
+Price: Rs. 179,999
+
+Brand: Apple
+Model: iphone XS
+OS: ios 12	
+Color: Black
+Price: Rs. 179,999

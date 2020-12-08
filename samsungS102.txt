@@ -1,0 +1,12 @@
+Samsung Galaxy S10 32GB
+Brand: Samsung
+Model: Samsung Galaxy S10
+OS: Android V9.0
+Color: Prism Black
+Price: Rs. 144,999
+
+Brand: Samsung
+Model: Samsung Galaxy S10
+OS: Android V9.0
+Color: Prism White
+Price: Rs. 144,999

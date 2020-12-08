@@ -1,0 +1,12 @@
+Samsung Galaxy S8 32GB
+Brand: Samsung
+Model: Samsung Galaxy S8
+OS: Android V7.0
+Color: Prism Black
+Price: Rs. 55,000
+
+Brand: Samsung
+Model: Samsung Galaxy S8
+OS: Android V7.0
+Color: Prism White
+Price: Rs. 55,000

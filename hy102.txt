@@ -1,0 +1,13 @@
+Huawei Y10 64 GB
+
+Brand: Huawei
+Model: Y10
+OS: Harmony OS
+Color: Black
+Price: 55,000
+
+Brand: Huawei
+Model: Y10
+OS: Harmony OS
+Color: Gold
+Price: 55,000

@@ -1,0 +1,12 @@
+Samsung Galaxy S6 64GB
+Brand: Samsung
+Model: Samsung Galaxy S6
+OS: Android V5.0
+Color: Prism Black
+Price: Rs. 45,000
+
+Brand: Samsung
+Model: Samsung Galaxy S6
+OS: Android V5.0
+Color: Prism White
+Price: Rs. 45,000
